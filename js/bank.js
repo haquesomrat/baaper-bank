@@ -11,7 +11,7 @@ document.getElementById('login-submit').addEventListener('click', function(){
         
         //check email and password
         if (userMail  == 'ihsomrat.official@gmail.com' &&  userPassword == 82862341){
-            window.location.href = 'banking.html';
+            // window.location.href = 'banking.html';
         }
     })
 })
